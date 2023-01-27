@@ -9,7 +9,7 @@ Hey there 👋
 
 I’m Mugesh Rao, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+Want to know more about me? [Check out my Instagram.](https://www.instagram.com/mugeshraoo/)
 
 
 
@@ -19,25 +19,22 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/mugesh-rao/Event-Site">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/pomegradient">
+<a href="https://github.com/mugesh-rao/CashTrack">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
+<a href="https://github.com/mugesh-rao/Recruiter-X">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <br>
 <br>
