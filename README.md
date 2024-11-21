@@ -1,10 +1,14 @@
-[![Braydon's GitHub Banner](./assets/Rao.png)](https://www.instagram.com/mugeshraoo/)
+[![Ravana's GitHub Banner](./assets/Rao.png)](https://www.instagram.com/mugeshraoo/)
 
 
 
 Hey there 👋
 
-I’m Mugesh Rao, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I'm Mugesh Rao D, a developer with a passion for building scalable solutions and tackling real-world challenges. Experienced in React, Node.js, Solidity, and cloud technologies, I specialize in full stack and blockchain development. As the founder of a heavy machinery rental platform, I aim to revolutionize agriculture through tech innovation.
+
+Key Skills: Full Stack Web Development, Blockchain, Cloud Computing, Mobile App Development, Data Structures & Algorithms
+
+Let's connect and collaborate!
 
 
 
