@@ -1,14 +1,17 @@
 [![Ravana's GitHub Banner](./assets/Rao.png)](https://www.instagram.com/mugeshraoo/)
 
 
+Hi, I'm Mugesh! 👋
 
-Hey there 👋
+I'm a developer with a passion for building cool tech solutions. I work with technologies like React, Node.js, Solidity, and cloud tech to create scalable applications. I also run a platform for renting heavy machinery to help improve agriculture using tech.
 
-I'm Mugesh Rao D, a developer with a passion for building scalable solutions and tackling real-world challenges. Experienced in React, Node.js, Solidity, and cloud technologies, I specialize in full stack and blockchain development. As the founder of a heavy machinery rental platform, I aim to revolutionize agriculture through tech innovation.
-
-Key Skills: Full Stack Web Development, Blockchain, Cloud Computing, Mobile App Development, Data Structures & Algorithms
-
-Let's connect and collaborate!
+Skills
+Full Stack Web Development 💻
+Blockchain 🔗
+Cloud Computing ☁️
+Mobile App Development 📱
+Data Structures & Algorithms 💡
+Let’s connect and build something amazing together!
 
 
 
