@@ -6,7 +6,7 @@
 
 ---
 
-## ⚡ Who TF Am I?
+## ⚡ Who Am I?
 
 I'm Mugesh — a full-stack product engineer with startup DNA, GPU brain, and caffeine bloodstream.  
 I build things that matter, break things for fun, and **ship real-world tech that actually solves problems**.
@@ -19,33 +19,19 @@ From whipping up an AI-powered RAG pipeline for healthcare to bootstrapping a di
 
 ---
 
-## 🧠 Core Tech Stack (aka My Toybox)
+## 🧠 My Stack (aka My Toybox)
 
-| Area | Tools I Trust |
-|------|---------------|
-| 🖥️ Frontend | React ⚛️ • Next.js • Tailwind • Tauri |
-| 🧠 AI & ML | LLaMA.cpp • Whisper • ONNX • RAG w/ Qdrant |
-| 🔙 Backend | Node.js • Express • Postgres • MongoDB • Redis |
-| ☁️ Cloud & Infra | Firebase • AWS EC2/S3 • Docker • Vercel |
-| 📦 Local-First | DuckDB • RocksDB • MinIO • SQLite |
-| 📈 Dev Muscle | GitHub Copilot • OpenAI • LangChain JS |
-
----
-
-## 🧬 What I Build
-
-🚀 **AIShiro** – Local-first, offline-friendly AI engine for clinics.  
-🩺 PDF, image, and audio ingestion → Embedding → RAG → GPT → Insights  
-Packaged with Rust + Tauri. Nothing leaves the hospital. Not even logs.  
-I call it HIPAA-friendly badassery.
-
-🌾 **KisanGear** – A platform for rural farmers to rent heavy machinery on-demand.  
-Because agri-tech doesn’t have to look like a 2005 WordPress site.
-
-🤖 **Astro AI (Marketing Copilot)** –  
-From ad fatigue detection to post-purchase WhatsApp upsells — I automate growth loops with intelligence and charm.
+| Area | Tech Stack |
+|------|------------|
+| 🖥️ Frontend | React • Next.js • Tailwind • Tauri • Vite |
+| 🧠 AI/ML | LLaMA.cpp • Whisper • ONNX Runtime • LangChain • Mini Transformers |
+| 🔙 Backend | Node.js • Rust |
+| ☁️ Infra | Firebase • AWS (EC2, S3, Lambda) • GCP • Docker • NGINX |
+| 📦 Local First | DuckDB • RocksDB • SQLite • MinIO |
+| 🧠 DX Tools | Cursor • Coder • Qoder |
 
 ---
+ 
 
 ## 💻 Currently Cooking
 
@@ -65,7 +51,7 @@ From ad fatigue detection to post-purchase WhatsApp upsells — I automate growt
 
 ---
 
-## 🕸️ Connect or Clone Me
+## 🕸️ Where you can stack me ?
 
 | Platform | Link |
 |---------|------|
