@@ -1,67 +1,99 @@
 # 👨‍💻 Mugesh Rao D
 
-### Full Stack Developer • AI Hacker • Founder-in-Building
+**Full Stack Developer | AI Engineer | Founder-in-Building**
 
-> _“I don’t hang out with distractions. I hang out with Docker containers and TypeScript types.”_
-
----
-
-## ⚡ Who Am I?
-
-I'm Mugesh — a full-stack product engineer with startup DNA, GPU brain, and caffeine bloodstream.  
-I build things that matter, break things for fun, and **ship real-world tech that actually solves problems**.
-
-I’m not here for clout.  
-I’m here to ship, learn, and scale.  
-From whipping up an AI-powered RAG pipeline for healthcare to bootstrapping a digital rental platform for farmers — I **code with context**.
-
-> **💡 Motto:** If it doesn’t scale or learn, I don’t build it.
+> _I don’t hang out with distractions. I hang out with Docker containers and TypeScript types._
 
 ---
 
-## 🧠 My Stack (aka My Toybox)
+## ⚡ About Me
 
-| Area | Tech Stack |
-|------|------------|
-| 🖥️ Frontend | React • Next.js • Tailwind • Tauri • Vite |
-| 🧠 AI/ML | LLaMA.cpp • Whisper • ONNX Runtime • LangChain • Mini Transformers |
-| 🔙 Backend | Node.js • Rust |
-| ☁️ Infra | Firebase • AWS (EC2, S3, Lambda) • GCP • Docker • NGINX |
-| 📦 Local First | DuckDB • RocksDB • SQLite • MinIO |
-| 🧠 DX Tools | Cursor • Coder • Qoder |
+I’m **Mugesh Rao**, a full-stack product engineer with strong startup instincts and deep interest in applied AI.
 
----
- 
+I focus on **building real systems**, not demos.  
+If it ships, scales, and learns, I’m interested.  
+If not, I refactor or delete it.
 
-## 💻 Currently Cooking
+I’ve worked across healthcare AI, offline-first desktop systems, multimodal pipelines, and SaaS tooling.  
+My work blends **engineering discipline with product thinking**.
 
-- Building multimodal LLM pipelines with Tauri, ONNX & CLIP.
-- Researching memory-safe, embeddable DBs like Redb + DuckDB for desktop AI.
-- Designing developer-first DX for secure offline SaaS.
-- Trying not to over-engineer a side project (and failing).
+**Core belief:** Code should solve a real problem, not just pass a benchmark.
 
 ---
 
-## 🧩 I Like
+## 🧠 Tech Stack
 
-- Talking to my debugger more than I talk to people.
-- Turning Figma dreams into pixel-perfect React.
-- Embedding images, audio, and text into Qdrant like a mad scientist.
-- Turning every 404 into a feature.
+### Frontend
+- React
+- Next.js
+- Tailwind CSS
+- Tauri
+- Vite
+
+### AI / ML
+- LLaMA.cpp
+- Whisper
+- ONNX Runtime
+- LangChain
+- Lightweight transformer models
+- CLIP and multimodal embeddings
+
+### Backend
+- Node.js
+- Rust
+
+### Infrastructure
+- Firebase
+- AWS EC2, S3, Lambda
+- Google Cloud Platform
+- Docker
+- NGINX
+
+### Local-First and Storage
+- DuckDB
+- RocksDB
+- SQLite
+- MinIO
+
+### Developer Experience
+- Cursor
+- Coder
+- Qoder
 
 ---
 
-## 🕸️ Where you can stack me ?
+## 🔥 What I’m Working On
+
+- Multimodal LLM pipelines using Tauri, ONNX, and CLIP
+- Offline-first AI systems with embeddable databases
+- Secure desktop SaaS architectures
+- Developer-first tooling with strong DX
+- Learning how to ship fast without over-engineering
+
+---
+
+## 🧩 Interests
+
+- Turning complex Figma designs into clean React components
+- Embedding text, image, and audio data into vector databases
+- Designing systems that work offline and sync intelligently
+- Debugging until the root cause confesses
+- Treating edge cases as product features
+
+---
+
+## 🌐 Connect With Me
 
 | Platform | Link |
-|---------|------|
-| 📫 Email | [mugeshraoego@gmail.com](mailto:mugeshraoego@gmail.com) |
-| 🔗 LinkedIn | [linkedin.com/in/mugesh-rao-2003](https://linkedin.com/in/mugesh-rao-2003) |
-| 🧠 GitHub | [github.com/mugesh-rao](https://github.com/mugesh-rao) |
-| 🌐 Portfolio | [mugeshrao.com](https://mugeshrao.com) |
+|--------|------|
+| 📧 Email | [mugeshraoego@gmail.com](mailto:mugeshraoego@gmail.com) |
+| 💼 LinkedIn | https://linkedin.com/in/mugesh-rao-2003 |
+| 🧠 GitHub | https://github.com/mugesh-rao |
+| 🌍 Portfolio | https://mugeshrao.com |
 
 ---
 
-> _“I don’t dream of Big Tech jobs. I dream in YAML, Graph embeddings, and edge deployments. Let’s build.”_  
-> — **Mugesh Rao D**
-
+> _I don’t chase titles. I chase leverage.  
+> I think in systems, configs, and edge deployments._  
+>
+> **Let’s build something that matters.**
